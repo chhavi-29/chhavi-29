@@ -17,7 +17,8 @@ Shri Ramdeobaba College of Engineering and Management, Nagpur
 
 # Featured Projects
 
-🔹 AI Voice Note Summarizer
+## 🔹 AI Voice Note Summarizer
+
 AI-powered application that converts voice recordings into concise and structured summaries.
 
 - Speech-to-text transcription using Whisper  
@@ -27,7 +28,8 @@ AI-powered application that converts voice recordings into concise and structure
 
 ---
 
-🔹Fake News Detection Model
+## 🔹Fake News Detection Model
+
 Machine learning model that classifies news articles as **real or fake**.
 
 - Text preprocessing and TF-IDF vectorization  
@@ -36,7 +38,8 @@ Machine learning model that classifies news articles as **real or fake**.
 
 ---
 
-🔹 QR-Based Billing System
+## 🔹 QR-Based Billing System
+
 Smart billing system designed to simplify checkout using QR codes.
 
 - QR code product scanning  
@@ -46,7 +49,8 @@ Smart billing system designed to simplify checkout using QR codes.
 
 ---
 
-🔹 Image Recognition using Computer Vision
+## 🔹 Image Recognition using Computer Vision
+
 Computer vision project focused on recognizing objects in images.
 
 - Image preprocessing  
@@ -55,11 +59,14 @@ Computer vision project focused on recognizing objects in images.
 
 ---
 
-🔹 TechHive – DSA Learning Web App
+## 🔹 TechHive – DSA Learning Web App
+
 Tech: HTML, CSS, JavaScript
 
 Interactive platform to visualize Arrays, Stacks, Trees, and Graphs
+
 Implemented animations, quizzes, and smooth navigation
+
 Focused on algorithm visualization and frontend logic
 
 ----
@@ -95,7 +102,7 @@ https://leetcode.com/u/chhavipancholi/
 
 ---
 
- 📊 GitHub Stats
+ # 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chhavi-29&show_icons=true)
 
@@ -103,7 +110,7 @@ https://leetcode.com/u/chhavipancholi/
 
 ---
 
-🔹 Currently Learning
+# 🔹 Currently Learning
 
 - Computer Vision  
 - Advanced Data Structures & Algorithms  
@@ -111,7 +118,7 @@ https://leetcode.com/u/chhavipancholi/
 
 ---
 
-🔹 Connect With Me
+# 🔹 Connect With Me
 
 LinkedIn: www.linkedin.com/in/chhavi-pancholi-6b9b792b3
 Gmail : pancholi.chhavi3@gmail.com

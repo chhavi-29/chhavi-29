@@ -6,8 +6,11 @@ Interested in **Artificial Intelligence, Machine Learning, and real-world softwa
 ---
 
 🎓 Education
+
 B.Tech – Computer Science & Engineering (Artificial Intelligence and Machine Learning)
+
 Shri Ramdeobaba College of Engineering and Management, Nagpur
+
 📅 2023 – 2027
 
 -----

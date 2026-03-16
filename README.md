@@ -1,7 +1,7 @@
 # Hi, I'm Chhavi 👋
 
-💻 Aspiring **Software Developer** passionate about building practical applications and exploring intelligent systems.  
-🚀 Interested in **Artificial Intelligence, Machine Learning, and real-world software development**.
+Aspiring **Software Developer** passionate about building practical applications and exploring intelligent systems.  
+Interested in **Artificial Intelligence, Machine Learning, and real-world software development**.
 
 ---
 
@@ -14,8 +14,6 @@ AI-powered application that converts voice recordings into concise and structure
 - Transformer-based summarization using Hugging Face models  
 - Built with Python and Streamlit  
 - Deployed as a cloud web application  
-
-🔗 https://github.com/chhavi-29/Ai-voice-Note-Summarizer
 
 ---
 
@@ -96,7 +94,8 @@ https://leetcode.com/u/chhavipancholi/
 
 # 📫 Connect With Me
 
-LinkedIn: (www.linkedin.com/in/chhavi-pancholi-6b9b792b3)
+LinkedIn: www.linkedin.com/in/chhavi-pancholi-6b9b792b3
+Gmail : pancholi.chhavi3@gmail.com
 
 ---
 

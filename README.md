@@ -5,7 +5,7 @@ Interested in **Artificial Intelligence, Machine Learning, and real-world softwa
 
 ---
 
-🎓 Education
+# 🎓 Education
 
 B.Tech – Computer Science & Engineering (Artificial Intelligence and Machine Learning)
 
@@ -15,7 +15,7 @@ Shri Ramdeobaba College of Engineering and Management, Nagpur
 
 -----
 
-## Featured Projects
+# Featured Projects
 
 🔹 AI Voice Note Summarizer
 AI-powered application that converts voice recordings into concise and structured summaries.
@@ -46,7 +46,7 @@ Smart billing system designed to simplify checkout using QR codes.
 
 ---
 
-🔹 🖼 Image Recognition using Computer Vision
+🔹 Image Recognition using Computer Vision
 Computer vision project focused on recognizing objects in images.
 
 - Image preprocessing  
@@ -64,7 +64,7 @@ Focused on algorithm visualization and frontend logic
 
 ----
 
-# 🛠 Technical Skills
+#  Technical Skills
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

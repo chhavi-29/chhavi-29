@@ -102,13 +102,6 @@ https://leetcode.com/u/chhavipancholi/
 
 ---
 
- # 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chhavi-29&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chhavi-29&layout=compact)
-
----
 
 # 🔹 Currently Learning
 
